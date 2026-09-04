@@ -1,18 +1,17 @@
-# Checkpoint 01 Analise de Dados de Energia
-
-#Disciplina: Soluções em Energias Renováveis e Sustentáveis
-#Turma: 1CCPQ
-#Alunos:
-Artur Souza Pereira - RM 570880 
-Gustavo Gamba Zancopé - RM 569287 
-Isabela Camargo Souza - RM 569196 
-Miguel Silvério de Avila - RM 568873
-Victor Vieira Galvão - RM 571483 
-
-Este trabalho é composto por 2 partes:
+# Checkpoint 01 Analise de Dados de Energia <br>
+#Disciplina: Soluções em Energias Renováveis e Sustentáveis <br>
+#Turma: 1CCPQ <br>
+#Alunos: <br>
+Artur Souza Pereira - RM 570880 <br>
+Gustavo Gamba Zancopé - RM 569287 <br>
+Isabela Camargo Souza - RM 569196 <br>
+Miguel Silvério de Avila - RM 568873 <br>
+Victor Vieira Galvão - RM 571483 <br>
+<br>
+Este trabalho é composto por 2 partes: <br>
 
 1) Atividade prática com 6 datasets de energia — Orange Data Mining para tratamento dos dados, Python e Pandas para cálculos e manipulação dos dados da base.
-Aplicamos os procedimentos trabalhados em aula para preparar, inspecionar e analisar diferentes conjuntos de dados do setor de energia, relacionando cada operação realizada ao contexto do dataset.
+Aplicamos os procedimentos trabalhados em aula para preparar, inspecionar e analisar diferentes conjuntos de dados do setor de energia, relacionando cada operação realizada ao contexto do dataset. <br>
 
 Fonte dos datasets:
 Appliances Energy Prediction --> https://archive.ics.uci.edu/dataset/374/appliances+energy+prediction
